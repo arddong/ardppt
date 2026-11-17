@@ -1,3 +1,5 @@
+<img src="icon.png" width="96" alt="ArdPPT">
+
 # ArdPPT
 
 행사 현장 발표 화면 송출 프로그램 (윈도우). 무료.
