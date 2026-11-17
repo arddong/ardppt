@@ -1,10 +1,10 @@
-# Glow PPT
+# ArdPPT
 
 행사 현장 발표 화면 송출 프로그램 (윈도우). 무료.
 
 PPT·PDF·그림·영상을 묶음으로 올려 두고, 장을 눌러 TAKE 하면 두 번째 화면(LED·프로젝터)으로 나갑니다.
 
-- 받기: [Releases](https://github.com/arddong/glow-ppt/releases/latest) → `GlowPPT_Setup_v1.0.exe`
+- 받기: [Releases](https://github.com/arddong/ardppt/releases/latest) → `ArdPPT_Setup_v1.0.exe`
 - 버그 신고 · 기능 요청: https://chal-na.notion.site/2550a4124c6843fcb1086c9edb7d75f3
 
 ## 할 수 있는 것
